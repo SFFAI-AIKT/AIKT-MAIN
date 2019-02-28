@@ -18,7 +18,7 @@ This version of AI Knowledge Tree is a brief index of various branches. In order
 
 
 
-# [AI Conference Deadliens](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
+# [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
 
 
 
