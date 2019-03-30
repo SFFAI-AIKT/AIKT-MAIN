@@ -1,7 +1,7 @@
 # AIKT-MAIN
 This version of AI Knowledge Tree is a brief index of various branches. In order to explore details, you can click the related links. 
 
-In order to have a look at quick start, you can refer to [guide part](#Methods to Contribute to SFFAI AIKT).
+In order to have a look at quick start, you can refer to [guide part](#Methods-to-Contribute-to-SFFAI-AIKT).
 
 
 
@@ -24,7 +24,7 @@ In order to have a look at quick start, you can refer to [guide part](#Methods t
 
 ---
 
-# [Methods to Contribute to SFFAI AIKT](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Blog_Articles/Methods_to_Contribute_SFFAI_AIKT.pdf)
+# [Methods-to-Contribute-to-SFFAI-AIKT](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Blog_Articles/Methods_to_Contribute_SFFAI_AIKT.pdf)
 
 Welcome to contribute the project called Artificial Intelligence Knowledge Tree, Student Forums on Frontiers of Artificial Intelligence (SFFAI AIKT). In order to add content in AIKT project, we strong suggest you to read the instructions as follows. We are trying our best to make it easy for everyong to contribute themselves in this projece. Of course we know there are many talented contributors having their outstanding method to construct a open-resource project. Due to the limited capacity of the originator, ways to contribute to AIKT may not be the optimum solution. As a result, if you have any better plan for contributing to AIKT, please feel free to contact [EriC. MA](mailto:cong.ma@nlpr.ia.ac.cn) by email.
 
