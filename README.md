@@ -20,7 +20,11 @@ In order to have a look at quick start, you can refer to [guide part](#Methods-t
 
 # [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
 
+# Related Works
 
+1. [Paper with code](https://paperswithcode.com/)
+2. [NLP Progress](https://github.com/sebastianruder/NLP-progress)
+3. [State of the art Collection](https://www.stateoftheart.ai/)
 
 ---
 
